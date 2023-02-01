@@ -1,4 +1,7 @@
 streamlit==1.17.0
-conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
-pip install -U openai-whisper
-choco install ffmpeg
+numpy
+torch
+tqdm
+more-itertools
+transformers>=4.19.0
+ffmpeg-python==0.2.0
