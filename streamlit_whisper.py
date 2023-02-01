@@ -1,7 +1,7 @@
 import streamlit as st
 import whisper
 
-st.set_page_config(page_title="Audio to Text Converter" , page_icon=":tada", layout="wide")
+st.set_page_config(page_title="Audio to Text Converter" , page_icon=":tada")
 
 st.title("Whisper App")
 
